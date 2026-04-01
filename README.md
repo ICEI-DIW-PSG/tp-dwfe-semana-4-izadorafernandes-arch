@@ -7,21 +7,24 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 **IMPORTANTE:** Você deve trabalhar e alterar apenas arquivos dentro da pasta **`public`**. Deixe todos os demais arquivos e pastas desse repositório inalterados. **PRESTE MUITA ATENÇÃO NISSO.**
 
+---
+
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Izadora Santiago Fernandes  
+- Matrícula: 917459  
+- Proposta de projeto escolhida: Pessoas e Produções  
+- Breve descrição sobre seu projeto:  
+Este projeto consiste na criação de uma página web chamada **Beyhive Universe**, dedicada à cantora Beyoncé. A página apresenta alguns de seus álbuns e permite que usuários se inscrevam por meio de um formulário.
 
+---
 
 ## Print do(s) wireframe(s) criado
-> Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar.
 
+![Wireframe](public/wireframe.png.png)
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+---
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Home](public/print.png)
