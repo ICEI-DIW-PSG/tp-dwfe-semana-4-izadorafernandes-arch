@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+/* HEADER */
+.header {
+    background: black;
+    color: white;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+}
+
+/* MENU */
+.menu a {
+    color: white;
+    margin: 10px;
+}
+
+/* BANNER */
+.banner img {
+    width: 100%;
+    display: block;
+}
+
+/* ALBUMS */
+.albums {
+    padding: 20px;
+}
+
+/* COMBINAÇÃO DE SELETORES */
+.albums .card {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* FORM */
+.formulario {
+    padding: 20px;
+}
+
+/* FOOTER */
+.footer {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
