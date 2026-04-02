@@ -9,7 +9,6 @@ body {
     top: 0;
 }
 
-/* HEADER */
 .topo {
     display: flex;
     justify-content: space-between;
@@ -52,7 +51,7 @@ body {
     background: #f2f2f2;
 }
 
-/* LAYOUT */
+
 .container {
     display: flex;
 }
@@ -91,13 +90,13 @@ body {
     color: #999;
 }
 
-/* MAIN */
+
 main {
     flex: 1;
     padding: 30px;
 }
 
-/* BANNER */
+
 .banner img {
     width: 100%;
     height: 220px;
@@ -105,13 +104,13 @@ main {
     border-radius: 12px;
 }
 
-/* TÍTULOS */
+
 h2 {
     margin-top: 30px;
     font-weight: 400;
 }
 
-/* CARDS */
+
 .cards {
     display: flex;
     gap: 20px;
@@ -148,7 +147,7 @@ h2 {
     color: #777;
 }
 
-/* FOOTER */
+
 .footer {
     padding: 20px 30px;
     background: white;
