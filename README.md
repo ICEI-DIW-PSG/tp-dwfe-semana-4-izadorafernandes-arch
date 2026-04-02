@@ -15,16 +15,15 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 - Matrícula: 917459  
 - Proposta de projeto escolhida: Pessoas e Produções  
 - Breve descrição sobre seu projeto:  
-Este projeto consiste na criação de uma página web chamada **Beyhive Universe**, dedicada à cantora Beyoncé. A página apresenta alguns de seus álbuns e permite que usuários se inscrevam por meio de um formulário.
+Este projeto consiste na criação de uma página web chamada **Beyhive Universe**, dedicada à projetos da cantora Beyoncé. A página apresenta alguns de seus álbuns que eu mais gosto, e permite que usuários se inscrevam por meio de um formulário.
 
 ---
 
 ## Print do(s) wireframe(s) criado
 
-![Wireframe](public/wireframe.png.png)
+![Wireframe](public/wireframe.png)
 
 ---
 
 ## Print da home-page criada
 
-![Home](public/print.png)
