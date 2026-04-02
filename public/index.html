@@ -2,64 +2,123 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Bem vindo ao Beyhive Universe!</title>
+    <title>Beyhive Universe</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
 </head>
 <body>
 
-<header class="header">
-    <h1>🐝 Beyhive Universe</h1>
+<header class="topo">
+    <div>
+        <h1>Beyhive Universe</h1>
+        <p class="subtitulo">Meus favoritos da Beyoncé 💛</p>
+    </div>
 
-    <nav class="menu">
-        <a href="#">Home</a>
-        <a href="#">Álbuns</a>
-        <a href="#">Contato</a>
-    </nav>
+    <input type="text" placeholder="Pesquisar..." class="pesquisa">
+
+    <div class="botoes">
+        <button>Entrar</button>
+        <button>Cadastrar</button>
+        <button>Sobre</button>
+    </div>
 </header>
 
-<main>
+<div class="container">
 
-    <section class="banner">
-        <img src="https://picsum.photos/800/300">
-    </section>
+    <!-- MENU -->
+    <nav class="sidebar">
+        <a href="#"> Home</a>
+        <a href="#"> Álbuns</a>
+        <a href="#"> Musicas</a>
+        <a href="#"> Turnês</a>
 
-    <section class="albums">
+        <h3>Mais</h3>
+        <p>🎧 Minhas Playlists</p>
+    </nav>
 
-        <article class="card">
-            <img src="https://picsum.photos/200">
-            <h2>Renaissance</h2>
-            <p>Álbum lançado em 2022 com grande sucesso mundial.</p>
-        </article>
+    <main>
 
-        <article class="card">
-            <img src="https://picsum.photos/200">
-            <h2>Lemonade</h2>
-            <p>Um álbum que fala sobre, ancestralidade e empoderamento feminino, transformando a dor <br> da traição conjugal em uma celebração da mulher negra. </p>
-        </article>
-        <article class="card">
-    
-    <img src="https://picsum.photos/1200/400">
-    <h2>B'Day</h2>
-    <p>Álbum marcante da carreira.</p>
-</article>
+        <!-- BANNER -->
+        <section class="banner">
+            <img src="https://picsum.photos/id/1011/900/250">
+        </section>
 
-    </section>
+        <!-- ÁLBUNS -->
+        <section>
+            <h2>Meus álbuns favoritos</h2>
 
-    <section class="formulario">
+            <div class="cards">
 
-        <form>
-            <input type="text" placeholder="Nome">
-            <input type="email" placeholder="Email">
-            <button>Enviar</button>
-        </form>
+                <article class="card">
+                    <img src="https://picsum.photos/id/100/200">
+                    <h3>Lemonade</h3>
+                    <p>2016</p>
+                    <p>Esse álbum tem músicas que eu escuto sempre</p>
+                </article>
 
-    </section>
+                <article class="card">
+                    <img src="https://picsum.photos/id/101/200">
+                    <h3>Renaissance</h3>
+                    <p>2022</p>
+                    <p>Um dos meus favoritos desde sempre 💛</p>
+                </article>
 
-</main>
+                <article class="card">
+                    <img src="https://picsum.photos/id/102/200">
+                    <h3>B'Day</h3>
+                    <p>2006</p>
+                    <p>É muito especial na minha memória</p>
+                </article>
+
+                <article class="card">
+                    <img src="https://picsum.photos/id/103/200">
+                    <h3>Beyoncé</h3>
+                    <p>2013</p>
+                    <p>Incrível e cheio de força feminina</p>
+                </article>
+
+            </div>
+        </section>
+
+        <!-- MÚSICAS -->
+        <section>
+            <h2>Músicas que eu amo</h2>
+
+            <div class="cards">
+
+                <article class="card">
+                    <img src="https://picsum.photos/id/104/200">
+                    <h3>Crazy in Love 💛</h3>
+                </article>
+
+                <article class="card">
+                    <img src="https://picsum.photos/id/105/200">
+                    <h3>Single Ladies 💛</h3>
+                </article>
+
+                <article class="card">
+                    <img src="https://picsum.photos/id/106/200">
+                    <h3>Halo 💛</h3>
+                </article>
+
+                <article class="card">
+                    <img src="https://picsum.photos/id/107/200">
+                    <h3>Formation 💛</h3>
+                </article>
+
+            </div>
+        </section>
+
+    </main>
+</div>
 
 <footer class="footer">
-    <p>© 2026 Beyhive Universe</p>
+    <p>Receba minhas recomendações ✨</p>
+
+    <form>
+        <input type="text" placeholder="Seu nome">
+        <input type="email" placeholder="Seu@email.com">
+        <button>ENVIAR</button>
+    </form>
 </footer>
 
 </body>
