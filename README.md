@@ -27,3 +27,8 @@ Este projeto consiste na criação de uma página web chamada **Beyhive Universe
 
 ## Print da home-page criada
 
+### Tela 1
+![Home Page 1](public/HomePage1.png)
+
+### Tela 2
+![Home Page 2](public/HomePage2.png)
