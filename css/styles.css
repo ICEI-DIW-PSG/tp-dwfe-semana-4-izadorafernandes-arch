@@ -180,3 +180,54 @@ h2 {
 .footer button:hover {
     background: #333;
 }
+@media (max-width: 768px) {
+
+    /* HEADER */
+    .topo {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .pesquisa {
+        width: 100%;
+    }
+
+    .botoes {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    /* LAYOUT */
+    .container {
+        flex-direction: column;
+    }
+
+    /* SIDEBAR */
+    .sidebar {
+        width: 100%;
+        display: flex;
+        overflow-x: auto;
+    }
+
+    .sidebar a {
+        white-space: nowrap;
+    }
+
+    /* CARDS */
+    .cards {
+        flex-direction: column;
+    }
+
+    .card {
+        width: 100%;
+    }
+
+    /* FOOTER */
+    .footer {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+}
