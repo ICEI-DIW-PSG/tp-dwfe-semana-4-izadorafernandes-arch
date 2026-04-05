@@ -21,14 +21,14 @@ Este projeto consiste na criação de uma página web chamada **Beyhive Universe
 
 ## Print do(s) wireframe(s) criado
 
-![Wireframe](public/wireframe.png)
+![Wireframe](images/wireframe.png)
 
 ---
 
 ## Print da home-page criada
 
 ### Tela 1
-![Home Page 1](public/HomePage1.png)
+![Home Page 1](images/HomePage1.png)
 
 ### Tela 2
-![Home Page 2](public/HomePage2.png)
+![Home Page 2](images/HomePage2.png)
